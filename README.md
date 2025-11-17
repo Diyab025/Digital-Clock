@@ -1,4 +1,4 @@
-# Digital-clock-in-Python
+# Digital-Clock
 
 ⏰ Digital Clock in Python
 A simple Digital Clock built using Python, Tkinter, and the time module.
